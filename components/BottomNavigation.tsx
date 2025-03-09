@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { FaHome, FaInfoCircle, FaEnvelope } from 'react-icons/fa';
+import { FaHome, FaInfoCircle } from 'react-icons/fa';
 
 export default function BottomNavigation() {
   const pathname = usePathname();

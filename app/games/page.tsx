@@ -218,7 +218,7 @@ export default function Games() {
   return (
     <div className="container mx-auto px-4 py-8 pb-20">
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-3xl font-bold">Today's Games</h1>
+        <h1 className="text-3xl font-bold">Games alive</h1>
         <button 
           onClick={() => handleAdminAction('create')}
           className="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg transition duration-200"

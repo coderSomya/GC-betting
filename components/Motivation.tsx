@@ -31,14 +31,14 @@ export function Motivation() {
 
           <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
            <li>
-            Half of KGP doesn't give a fuck about <b>General Championship</b>, which i feel is one of the best things
-            that campus has to offer. I guess its mostly because people are lazy. However if we hava something
+            Half of KGP does not give a fuck about <b>General Championship</b>, which I feel is one of the best things
+            that campus has to offer. I guess its mostly because people are lazy. However, if we have something
             that gives them some incentive to bother about the games, it can help GC finds its spark in the campus.
            </li>
            <li>
             During Summer break, most mess remains closed. There are a lot of animals who do not have food to eat. I hate the fact
-            that the administration can spend lacs on Fests, etc but are silent over this. So this platform becomes a source of 
-            crowdfunding to arrange for the furry friends. 100% of money made will go into this.
+            that the administration can spend lacs on stupid events but are silent over this. So this platform becomes a source of 
+            crowdfunding to arrange for the furry friends. <b>100%</b> of money made will go into this.
            </li>
           </p>
 
